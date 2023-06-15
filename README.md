@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+宝藏男孩的宝藏自述（自封版）。等我试试这个nice的自述，后面看能不能加入自动化的一些东西，提取我的动态数据显示出来
+
 <!--
 **wuyinwuxian/wuyinwuxian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
